@@ -1,0 +1,29 @@
+name: Atualizar Pac‑Man Contribution
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Gerar Gráfico Pac‑Man
+        uses: AndreRuperto/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          theme: github-dark
+
+      - name: Publicar SVGs na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
