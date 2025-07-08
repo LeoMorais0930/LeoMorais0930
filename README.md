@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Leonardo</h1>
-<h3 align="center">Um desenvolvedor júnior em C# .NET</h3>
+<h3 align="center">Um desenvolvedor em C# .NET</h3>
 
 <p align="center">Atualmente me dedicando ao desenvolvimento de APIs RESTful e aprendendo novas bibliotecas em .NET e React.</p>
 
