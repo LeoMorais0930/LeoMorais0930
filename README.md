@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, sou o Leonardo</h1>
+<h3 align="center">Desenvolvedor focado em C# .NET e tecnologias web modernas</h3>
 
-<!--
-**LeoMorais0930/LeoMorais0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Atualmente me dedicando ao desenvolvimento de APIs RESTful e aprendendo bibliotecas modernas em .NET e React.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mim
+
+- 🔭 Trabalhando com **Desenvolvimento de APIs RESTful**
+- 🌱 Aprendendo mais sobre **C# .NET**, **React**, e tecnologias web modernas
+- 👯 Buscando colaborar em projetos com **Frameworks e APIs do .NET**
+- 🤝 Aberto a contribuições em **projetos Front-end**
+- 💬 Me pergunte sobre **C# .NET**, **PostgreSQL**, ou **boas práticas de API**
+- 📫 Contato: **ojoojvg@gmail.com**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,py,ts,tailwind,nextjs,nestjs,graphql,go,rust,aws" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" alt="GCP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60" alt="Oracle DB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="PostgreSQL" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" alt="Postman" />
+</div>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leomorais0930&show_icons=true&theme=dracula&locale=pt-br" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomorais0930&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leomorais0930&theme=dracula&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+### 👾 Gráfico de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="https://github.com/leomorais0930" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://linkedin.com/in/leonardo morais" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
