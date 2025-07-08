@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Leonardo</h1>
-<h3 align="center">Desenvolvedor focado em C# .NET e tecnologias web modernas</h3>
+<h3 align="center">Um desenvolvedor júnior em C# .NET</h3>
 
-<p align="center">Atualmente me dedicando ao desenvolvimento de APIs RESTful e aprendendo bibliotecas modernas em .NET e React.</p>
+<p align="center">Atualmente me dedicando ao desenvolvimento de APIs RESTful e aprendendo novas bibliotecas em .NET e React.</p>
 
 ---
 
@@ -11,7 +11,7 @@
 - 🌱 Aprendendo mais sobre **C# .NET**, **React**, e tecnologias web modernas
 - 👯 Buscando colaborar em projetos com **Frameworks e APIs do .NET**
 - 🤝 Aberto a contribuições em **projetos Front-end**
-- 💬 Me pergunte sobre **C# .NET**, **PostgreSQL**, ou **boas práticas de API**
+- 💬 Me pergunte sobre **C# .NET**, **PostgreSQL**
 - 📫 Contato: **ojoojvg@gmail.com**
 
 ---
@@ -30,7 +30,6 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 </div>
 
-
 ---
 
 ### 📊 Estatísticas GitHub
@@ -43,7 +42,7 @@
 
 ---
 
-### 👾 Gráfico de contribuições
+### 👾 Gráfico de Contribuições (Pac-Man Style)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -59,7 +58,7 @@
   <a href="https://github.com/leomorais0930" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://linkedin.com/in/leonardo morais" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-morais-8ab134261/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
