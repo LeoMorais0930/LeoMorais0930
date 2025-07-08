@@ -3,7 +3,7 @@ name: Atualizar Pac-Man Contribution
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"  # roda todo domingo à meia-noite
+    - cron: "0 0 * * 0" 
 
 jobs:
   build:
@@ -15,8 +15,7 @@ jobs:
       - name: Gerar gráfico Pac-Man
         uses: AndreRuperto/pacman-contribution-graph@main
         with:
-          github_user_name: leomorais0930
+          github_user_name: LeoMorais0930
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dark          
-          output_directory: .  
-
+          theme: dark
+          output_directory: .
