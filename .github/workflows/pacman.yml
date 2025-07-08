@@ -3,19 +3,26 @@ name: Atualizar Pac-Man Contribution
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0" 
+    - cron: "0 0 * * 0"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+    permissions:
+      contents: write
 
+    steps:
       - name: Gerar gráfico Pac-Man
-        uses: AndreRuperto/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: LeoMorais0930
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dark
-          output_directory: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit e Push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .
+          git commit -m "Atualiza gráfico Pac-Man"
+          git push
