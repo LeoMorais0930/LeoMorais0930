@@ -42,8 +42,6 @@
 
 ---
 
-### 👾 Gráfico de Contribuições (Estilo Pac-Man)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoMorais0930/LeoMorais0930/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoMorais0930/LeoMorais0930/output/pacman-contribution-graph.svg">
