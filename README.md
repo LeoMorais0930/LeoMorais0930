@@ -54,16 +54,7 @@ Projetos menores e estudos envolvendo C#, ASP.NET Core, endpoints REST, organiza
 
 ---
 
-### Estatisticas GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoMorais0930&theme=dracula" alt="Resumo de atividade no GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoMorais0930&theme=dracula" height="150" alt="Repositorios por linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoMorais0930&theme=dracula" height="150" alt="Commits por linguagem" />
-</div>
+### Atividade GitHub
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoMorais0930&theme=dracula&hide_border=true" alt="Grafico de atividade no GitHub" />
