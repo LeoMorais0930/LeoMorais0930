@@ -1,42 +1,72 @@
-<h1 align="center">Olá 👋, sou o Leonardo</h1>
-<h3 align="center">Um desenvolvedor em C# .NET</h3>
+<h1 align="center">Ola, sou o Leonardo Morais</h1>
+<h3 align="center">Desenvolvedor focado em C#/.NET, APIs e aplicacoes web para operacao real</h3>
 
-<p align="center">Atualmente me dedicando ao desenvolvimento de APIs RESTful e aprendendo novas bibliotecas em .NET e React.</p>
-
----
-
-### 💡 Sobre mim
-
-- 🔭 Trabalhando com **Desenvolvimento de APIs RESTful**
-- 🌱 Aprendendo mais sobre **C# .NET**, **React**, e tecnologias web modernas
-- 👯 Buscando colaborar em projetos com **Frameworks e APIs do .NET**
-- 🤝 Aberto a contribuições em **projetos Front-end**
-- 💬 Me pergunte sobre **C# .NET**, **PostgreSQL**
-- 📫 Contato: **ojoojvg@gmail.com**
+<p align="center">
+  Trabalho principalmente com backends em .NET, integracoes, automacao de processos e interfaces em Flutter/Web.
+  Nos ultimos tempos venho desenvolvendo solucoes internas para a VETTI, como o VettiFlow e o VettiConfig.
+</p>
 
 ---
 
-### 🧰 Tecnologias que uso
+### Sobre mim
+
+- Atualmente trabalhando em sistemas internos para acompanhamento, configuracao e automacao de rotinas operacionais.
+- Construindo APIs REST com ASP.NET Core, Minimal APIs, Swagger/OpenAPI e comunicacao em tempo real com SignalR.
+- Tambem mexendo com Flutter/Dart para interfaces web, PWA e telas voltadas para producao.
+- Gosto de transformar processos manuais em ferramentas simples, diretas e uteis para quem usa no dia a dia.
+- Aberto para conversar sobre C#/.NET, APIs, Flutter, automacao e melhorias de fluxo.
+- Contato: **ojoojvg@gmail.com**
+
+---
+
+### O que estou desenvolvendo
+
+**VettiFlow**<br>
+Sistema para monitoramento de producao da VETTI, com API em .NET, SignalR para atualizacao em tempo real, Swagger/OpenAPI, persistencia local em JSON para prototipagem e frontends Flutter Web/PWA para operacao e visualizacao.
+[Repositorio](https://github.com/LeoMorais0930/VettiFlow)
+
+**VettiConfig**<br>
+Projeto voltado para configuracao e apoio a rotinas internas da VETTI, seguindo a mesma linha de criar ferramentas praticas para reduzir trabalho manual e organizar processos.
+
+**APIs e automacoes**<br>
+Projetos menores e estudos envolvendo C#, ASP.NET Core, endpoints REST, organizacao de dados, scripts PowerShell e deploy local/servidor.
+
+---
+
+### Stack atual
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-0A66C2?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 </div>
 
 ---
 
-### 📊 Estatísticas GitHub
+### Estatisticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leomorais0930&show_icons=true&theme=dracula&locale=pt-br" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomorais0930&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=leomorais0930&theme=dracula&margin-w=8&margin-h=8" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoMorais0930&theme=dracula" alt="Resumo de atividade no GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoMorais0930&theme=dracula" height="150" alt="Repositorios por linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoMorais0930&theme=dracula" height="150" alt="Commits por linguagem" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoMorais0930&theme=dracula&hide_border=true" alt="Grafico de atividade no GitHub" />
 </div>
 
 ---
@@ -47,19 +77,18 @@
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/LeoMorais0930/LeoMorais0930/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ---
 
-### 🌐 Conecte-se comigo
+### Conecte-se comigo
 
 <div align="center">
-  <a href="https://github.com/leomorais0930" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://github.com/LeoMorais0930" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-morais-8ab134261/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="mailto:ojoojvg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
 </div>
