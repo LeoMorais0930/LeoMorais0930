@@ -15,7 +15,7 @@
 - Tambem mexendo com Flutter/Dart, React, Vite e animacoes com GSAP para interfaces web responsivas.
 - Gosto de transformar processos manuais em ferramentas simples, diretas e uteis para quem usa no dia a dia.
 - Aberto para conversar sobre C#/.NET, APIs, Flutter, React, automacao e melhorias de fluxo.
-- Contato: **ojoojvg@gmail.com**
+- Contato: **leonardohbrito57@gmail.com**
 
 ---
 
