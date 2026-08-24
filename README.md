@@ -85,3 +85,11 @@ Desktop C#/.NET application with Windows Forms, Oracle, Nitgen NBioBSP SDK, and 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoMorais0930&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoMorais0930/LeoMorais0930/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoMorais0930/LeoMorais0930/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/LeoMorais0930/LeoMorais0930/output/pacman-contribution-graph.svg">
+</picture>
