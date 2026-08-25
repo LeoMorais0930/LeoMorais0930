@@ -19,19 +19,19 @@ Tenho me aprofundado principalmente em C#/.NET, ASP.NET Core, SignalR, Flutter, 
 
 **VettiFlow API**<br>
 Backend em .NET com Minimal APIs, SignalR, Swagger/OpenAPI e persistencia local em JSON para acompanhamento de fluxo de producao, ordens, etapas e atualizacoes em tempo real.<br>
-[Repositorio](https://github.com/LeoMorais0930/VettiFlow)
+[Repositorio](https://github.com/LeoMorais0930/vettiflow-api)
 
-**VettiFlow 1.0**<br>
+**VettiFlow Flutter App**<br>
 Frontend Flutter Web/PWA para acompanhamento operacional de producao, com dashboard, kanban, filtros, KPIs, telas por etapa e estrutura preparada para integracao com API.<br>
-[Repositorio](https://github.com/LeoMorais0930/vetti_flow_1.0)
+[Repositorio](https://github.com/LeoMorais0930/vettiflow-flutter-app)
 
 **Registro de Defeitos e Feedbacks**<br>
 Aplicacao Node.js/Express para registrar ocorrencias, consultar por filtros e gerar relatorios em PDF com PDFKit. Inclui testes com Vitest e Supertest.<br>
-[Repositorio](https://github.com/LeoMorais0930/Vetti-Relat)
+[Repositorio](https://github.com/LeoMorais0930/vetti-defect-reports)
 
 **Sistema de Pagamento Biometrico**<br>
 Aplicacao desktop em C#/.NET com Windows Forms, Oracle, SDK Nitgen NBioBSP e integracao de pagamentos. O projeto valida a identidade por impressao digital antes de confirmar pagamentos com cartao tokenizado.<br>
-[Repositorio](https://github.com/LeoMorais0930/ProjetoFinal)
+[Repositorio](https://github.com/LeoMorais0930/biometric-payment-system)
 
 ### Stack atual
 
@@ -66,19 +66,19 @@ I have been working mainly with C#/.NET, ASP.NET Core, SignalR, Flutter, React, 
 
 **VettiFlow API**<br>
 .NET backend using Minimal APIs, SignalR, Swagger/OpenAPI, and local JSON persistence to support production flow tracking, orders, stages, and real-time updates.<br>
-[Repository](https://github.com/LeoMorais0930/VettiFlow)
+[Repository](https://github.com/LeoMorais0930/vettiflow-api)
 
-**VettiFlow 1.0**<br>
+**VettiFlow Flutter App**<br>
 Flutter Web/PWA frontend for production monitoring, including dashboard, kanban, filters, KPIs, stage-oriented screens, and a structure prepared for API integration.<br>
-[Repository](https://github.com/LeoMorais0930/vetti_flow_1.0)
+[Repository](https://github.com/LeoMorais0930/vettiflow-flutter-app)
 
 **Defects and Feedback Registry**<br>
 Node.js/Express app to register occurrences, filter records, and generate PDF reports with PDFKit. Includes automated tests with Vitest and Supertest.<br>
-[Repository](https://github.com/LeoMorais0930/Vetti-Relat)
+[Repository](https://github.com/LeoMorais0930/vetti-defect-reports)
 
 **Biometric Payment System**<br>
 Desktop C#/.NET application with Windows Forms, Oracle, Nitgen NBioBSP SDK, and payment integration. The system verifies identity through fingerprint validation before confirming tokenized card payments.<br>
-[Repository](https://github.com/LeoMorais0930/ProjetoFinal)
+[Repository](https://github.com/LeoMorais0930/biometric-payment-system)
 
 ### GitHub Activity
 
