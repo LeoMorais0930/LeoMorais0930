@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo Henrique Morais Brito</h1>
-<h3 align="center">Fullstack Developer | C#/.NET, APIs, Flutter and web systems for real operations</h3>
+<h3 align="center">Early Mid-level Fullstack Developer | C#/.NET, APIs, Flutter and operational systems</h3>
 
 <p align="center">
   <a href="mailto:leonardohbrito57@gmail.com">leonardohbrito57@gmail.com</a> |
@@ -11,9 +11,9 @@
 
 ## Portugues
 
-Sou desenvolvedor fullstack formado em Analise e Desenvolvimento de Sistemas, com atuacao pratica desde janeiro de 2026 em sistemas internos, APIs, automacoes e interfaces voltadas para operacao real.
+Sou desenvolvedor fullstack em escopo de pleno inicial, formado em Analise e Desenvolvimento de Sistemas, com 1 ano de experiencia profissional formal e projetos de software desde 2023.
 
-Tenho me aprofundado principalmente em C#/.NET, ASP.NET Core, SignalR, Flutter, React, JavaScript e integracoes. Gosto de construir ferramentas que reduzem trabalho manual, melhoram visibilidade de processos e deixam o uso diario mais simples para quem esta na operacao.
+Tenho me aprofundado principalmente em C#/.NET, ASP.NET Core, SignalR, Flutter, React, JavaScript e integracoes. Atuo tomando iniciativa tecnica, apoiando desenvolvedores junior, avaliando stack, direcionando o uso de IA no desenvolvimento e construindo ferramentas que reduzem trabalho manual em operacoes reais.
 
 ### Projetos em destaque
 
@@ -58,9 +58,9 @@ Aplicacao desktop em C#/.NET com Windows Forms, Oracle, SDK Nitgen NBioBSP e int
 
 ## English
 
-I am a fullstack developer with a degree in Systems Analysis and Development, working on practical software projects since January 2026. My current focus is internal systems, APIs, automation, and interfaces built for real operational workflows.
+I am an early mid-level fullstack developer with a degree in Systems Analysis and Development, 1 year of formal professional experience, and hands-on software projects since 2023.
 
-I have been working mainly with C#/.NET, ASP.NET Core, SignalR, Flutter, React, JavaScript, and integrations. I enjoy building tools that reduce manual work, improve process visibility, and make everyday operation easier for users.
+I work mainly with C#/.NET, ASP.NET Core, SignalR, Flutter, React, JavaScript, and integrations. I take technical initiative, support junior developers, help evaluate stack decisions, guide practical AI usage in development, and build tools that reduce manual work in real operational workflows.
 
 ### Featured Projects
 
