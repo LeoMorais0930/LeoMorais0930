@@ -15,7 +15,13 @@ Sou desenvolvedor fullstack em escopo de pleno inicial, formado em Analise e Des
 
 Tenho me aprofundado principalmente em C#/.NET, ASP.NET Core, SignalR, Flutter, React, JavaScript e integracoes. Atuo tomando iniciativa tecnica, apoiando desenvolvedores junior, avaliando stack, direcionando o uso de IA no desenvolvimento e construindo ferramentas que reduzem trabalho manual em operacoes reais.
 
+Atualmente, também estou estudando Protheus, ADVPL/TLPP e SQL em um laboratório local com Docker e WSL2, com foco em entender o ERP, criar e customizar rotinas e validar regras de negócio.
+
 ### Projetos em destaque
+
+**Protheus Lab — em desenvolvimento**<br>
+Laboratório de aprendizado do Protheus do zero: arquitetura, dados, rotinas e desenvolvimento ADVPL/TLPP. Documenta a preparação do ambiente com Docker e WSL2, o roteiro de estudos e as verificações realizadas. Com créditos ao projeto de Felipe Raposo.<br>
+[Repositório](https://github.com/LeoMorais0930/protheus-lab) · [English README](https://github.com/LeoMorais0930/protheus-lab/blob/main/README.en.md)
 
 **VettiFlow API**<br>
 Backend em .NET com Minimal APIs, SignalR, Swagger/OpenAPI e persistencia local em JSON para acompanhamento de fluxo de producao, ordens, etapas e atualizacoes em tempo real.<br>
@@ -62,7 +68,13 @@ I am an early mid-level fullstack developer with a degree in Systems Analysis an
 
 I work mainly with C#/.NET, ASP.NET Core, SignalR, Flutter, React, JavaScript, and integrations. I take technical initiative, support junior developers, help evaluate stack decisions, guide practical AI usage in development, and build tools that reduce manual work in real operational workflows.
 
+I am also studying Protheus, ADVPL/TLPP, and SQL in a local Docker and WSL2 lab, focusing on understanding the ERP, building and customizing routines, and validating business rules.
+
 ### Featured Projects
+
+**Protheus Lab — work in progress**<br>
+A hands-on lab for learning Protheus from scratch: architecture, data, routines, and ADVPL/TLPP development. Documents Docker and WSL2 environment preparation, the learning roadmap, and completed checks. With credit to Felipe Raposo's reference project.<br>
+[Repository](https://github.com/LeoMorais0930/protheus-lab) · [English README](https://github.com/LeoMorais0930/protheus-lab/blob/main/README.en.md)
 
 **VettiFlow API**<br>
 .NET backend using Minimal APIs, SignalR, Swagger/OpenAPI, and local JSON persistence to support production flow tracking, orders, stages, and real-time updates.<br>
@@ -79,12 +91,6 @@ Node.js/Express app to register occurrences, filter records, and generate PDF re
 **Biometric Payment System**<br>
 Desktop C#/.NET application with Windows Forms, Oracle, Nitgen NBioBSP SDK, and payment integration. The system verifies identity through fingerprint validation before confirming tokenized card payments.<br>
 [Repository](https://github.com/LeoMorais0930/biometric-payment-system)
-
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoMorais0930&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
-</div>
 
 ---
 
